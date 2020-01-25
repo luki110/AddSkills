@@ -42,6 +42,8 @@
             this.lblSelectedCourse = new System.Windows.Forms.Label();
             this.btnBrowse = new System.Windows.Forms.Button();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
+            this.label2 = new System.Windows.Forms.Label();
+            this.lblCourseLevel = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
@@ -53,7 +55,7 @@
             this.groupBox1.Controls.Add(this.listBoxCourses);
             this.groupBox1.Location = new System.Drawing.Point(21, 63);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(267, 437);
+            this.groupBox1.Size = new System.Drawing.Size(301, 437);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Courses";
@@ -67,13 +69,13 @@
             this.listBoxCourses.Location = new System.Drawing.Point(6, 19);
             this.listBoxCourses.Name = "listBoxCourses";
             this.listBoxCourses.ScrollAlwaysVisible = true;
-            this.listBoxCourses.Size = new System.Drawing.Size(255, 394);
+            this.listBoxCourses.Size = new System.Drawing.Size(289, 407);
             this.listBoxCourses.TabIndex = 0;
             this.listBoxCourses.SelectedIndexChanged += new System.EventHandler(this.listBoxCourses_SelectedIndexChanged);
             // 
             // btnDelete
             // 
-            this.btnDelete.Location = new System.Drawing.Point(548, 147);
+            this.btnDelete.Location = new System.Drawing.Point(580, 126);
             this.btnDelete.Name = "btnDelete";
             this.btnDelete.Size = new System.Drawing.Size(75, 23);
             this.btnDelete.TabIndex = 1;
@@ -86,9 +88,9 @@
             this.groupBox2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
             this.groupBox2.Controls.Add(this.listBoxSkills);
-            this.groupBox2.Location = new System.Drawing.Point(297, 132);
+            this.groupBox2.Location = new System.Drawing.Point(328, 111);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(245, 368);
+            this.groupBox2.Size = new System.Drawing.Size(245, 389);
             this.groupBox2.TabIndex = 3;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Skills";
@@ -101,12 +103,12 @@
             this.listBoxSkills.FormattingEnabled = true;
             this.listBoxSkills.Location = new System.Drawing.Point(3, 15);
             this.listBoxSkills.Name = "listBoxSkills";
-            this.listBoxSkills.Size = new System.Drawing.Size(232, 329);
+            this.listBoxSkills.Size = new System.Drawing.Size(232, 368);
             this.listBoxSkills.TabIndex = 0;
             // 
             // txtSkill
             // 
-            this.txtSkill.Location = new System.Drawing.Point(294, 82);
+            this.txtSkill.Location = new System.Drawing.Point(329, 48);
             this.txtSkill.Name = "txtSkill";
             this.txtSkill.ScrollBars = System.Windows.Forms.ScrollBars.Horizontal;
             this.txtSkill.Size = new System.Drawing.Size(295, 20);
@@ -114,7 +116,7 @@
             // 
             // btnAdd
             // 
-            this.btnAdd.Location = new System.Drawing.Point(595, 80);
+            this.btnAdd.Location = new System.Drawing.Point(630, 46);
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(75, 23);
             this.btnAdd.TabIndex = 5;
@@ -126,7 +128,7 @@
             // 
             this.btnCreate.BackColor = System.Drawing.Color.Red;
             this.btnCreate.ForeColor = System.Drawing.Color.White;
-            this.btnCreate.Location = new System.Drawing.Point(570, 470);
+            this.btnCreate.Location = new System.Drawing.Point(604, 465);
             this.btnCreate.Name = "btnCreate";
             this.btnCreate.Size = new System.Drawing.Size(122, 31);
             this.btnCreate.TabIndex = 6;
@@ -137,7 +139,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(295, 63);
+            this.label1.Location = new System.Drawing.Point(330, 29);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(78, 13);
             this.label1.TabIndex = 7;
@@ -146,7 +148,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(294, 116);
+            this.label3.Location = new System.Drawing.Point(329, 82);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(91, 13);
             this.label3.TabIndex = 9;
@@ -155,11 +157,10 @@
             // lblSelectedCourse
             // 
             this.lblSelectedCourse.AutoSize = true;
-            this.lblSelectedCourse.Location = new System.Drawing.Point(382, 116);
+            this.lblSelectedCourse.Location = new System.Drawing.Point(417, 82);
             this.lblSelectedCourse.Name = "lblSelectedCourse";
-            this.lblSelectedCourse.Size = new System.Drawing.Size(35, 13);
+            this.lblSelectedCourse.Size = new System.Drawing.Size(0, 13);
             this.lblSelectedCourse.TabIndex = 10;
-            this.lblSelectedCourse.Text = "label4";
             // 
             // btnBrowse
             // 
@@ -175,11 +176,30 @@
             // 
             this.openFileDialog1.FileName = "openFileDialog1";
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(330, 95);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(36, 13);
+            this.label2.TabIndex = 13;
+            this.label2.Text = "Level:";
+            // 
+            // lblCourseLevel
+            // 
+            this.lblCourseLevel.AutoSize = true;
+            this.lblCourseLevel.Location = new System.Drawing.Point(372, 95);
+            this.lblCourseLevel.Name = "lblCourseLevel";
+            this.lblCourseLevel.Size = new System.Drawing.Size(0, 13);
+            this.lblCourseLevel.TabIndex = 14;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(810, 517);
+            this.ClientSize = new System.Drawing.Size(802, 517);
+            this.Controls.Add(this.lblCourseLevel);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.btnBrowse);
             this.Controls.Add(this.lblSelectedCourse);
             this.Controls.Add(this.label3);
@@ -217,6 +237,8 @@
         private System.Windows.Forms.Label lblSelectedCourse;
         private System.Windows.Forms.Button btnBrowse;
         private System.Windows.Forms.OpenFileDialog openFileDialog1;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label lblCourseLevel;
     }
 }
 

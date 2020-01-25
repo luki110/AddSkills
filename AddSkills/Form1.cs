@@ -103,6 +103,7 @@ namespace AddSkills
             {
                 selectedCourse = (Course)listBoxCourses.SelectedItem;
                 lblSelectedCourse.Text = selectedCourse.Title;
+                lblCourseLevel.Text = selectedCourse.Level;
 
                 if (selectedCourse.Skills.Count > 0)
                 {
@@ -181,6 +182,9 @@ namespace AddSkills
                     }
 
                     string jCourses = JsonConvert.SerializeObject(lstcourses, Formatting.Indented);
+                    //
+                    //This part was selecting file save destination but for some reason it still saves it in: AddSkills\AddSkills\bin\Debug\
+                    //
                     //Stream myStream;
                     //SaveFileDialog saveFileDialog1 = new SaveFileDialog();
 
