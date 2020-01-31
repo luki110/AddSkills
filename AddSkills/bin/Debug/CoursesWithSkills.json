@@ -1,27 +1,1396 @@
 [
   {
-    "Title": "Test",
-    "Level": "HND",
+    "Title": "Marketing Communication (SCQF level 6)",
+    "Level": "Other",
     "Skills": [
-      "ad",
-      "ahaaa",
-      "kurde",
-      "dziala",
-      "asd",
-      "Aidan",
-      "sucks"
+      "dupa",
+      "add"
     ]
   },
   {
-    "Title": "Test2",
-    "Level": "HND",
+    "Title": "Shipping and Maritime Operations (January Pre-Cadetship) (SCQF level 6)",
+    "Level": "Other",
     "Skills": [
-      "adddd",
-      "was",
-      "is",
-      "das??",
-      "dsadsa",
-      "asssss"
+      "dupa",
+      "add"
     ]
+  },
+  {
+    "Title": "Social Studies ",
+    "Level": "Access",
+    "Skills": [
+      "dupa",
+      "cycki"
+    ]
+  },
+  {
+    "Title": "Engineering ",
+    "Level": "Access",
+    "Skills": []
+  },
+  {
+    "Title": "",
+    "Level": "Access",
+    "Skills": []
+  },
+  {
+    "Title": "Contemporary Art Practice BA (Hons) (SCQF level 9)",
+    "Level": "BA (Hons)",
+    "Skills": []
+  },
+  {
+    "Title": "Photography BA (Hons) (SCQF level 9)",
+    "Level": "BA (Hons)",
+    "Skills": []
+  },
+  {
+    "Title": "Photography (Year 4 Direct Entry) BA (Hons) (SCQF level 9)",
+    "Level": "BA (Hons)",
+    "Skills": []
+  },
+  {
+    "Title": "Television BA (Hons) (SCQF level 9)",
+    "Level": "BA (Hons)",
+    "Skills": []
+  },
+  {
+    "Title": "Design Practice BA (Hons) (SCQF level 9)",
+    "Level": "BA (Hons)",
+    "Skills": []
+  },
+  {
+    "Title": "Hospitality ",
+    "Level": "BA",
+    "Skills": []
+  },
+  {
+    "Title": "Air Cabin Crew Operations City and Guilds Diploma (SCQF level 5)",
+    "Level": "Other",
+    "Skills": []
+  },
+  {
+    "Title": "Extended Certificate in Construction Skills - August Start City and Guilds (SCQF level 3)",
+    "Level": "Other",
+    "Skills": []
+  },
+  {
+    "Title": "Women in Construction - August Start City and Guilds (SCQF level 3)",
+    "Level": "Other",
+    "Skills": []
+  },
+  {
+    "Title": "Painting and Decorating - January Start City and Guilds (SCQF level 5)",
+    "Level": "Other",
+    "Skills": []
+  },
+  {
+    "Title": "Women in Construction - January Start City and Guilds (SCQF level 3)",
+    "Level": "Other",
+    "Skills": []
+  },
+  {
+    "Title": "Carpentry and Joinery - January Start City and Guilds (SCQF level 5)",
+    "Level": "Other",
+    "Skills": []
+  },
+  {
+    "Title": "Social Sciences Diploma of Higher Education (SCQF level 8)",
+    "Level": "Other",
+    "Skills": []
+  },
+  {
+    "Title": "Business Diploma of Higher Education (SCQF level 8)",
+    "Level": "Other",
+    "Skills": []
+  },
+  {
+    "Title": "Women into Mechanical Engineering",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Art and Design/Art Glass",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "3D Design: Interior Design",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "3D Design: Product Design",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Acting and Performance",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Art and Design / Applied Arts",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Fine Art",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Computer Games Development",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Digital Design and Web Development",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Creative Industries: Professional Writing Skills",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Media and Communication",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Built Environment/ Construction Management",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Construction Technician within the Built Environment",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Childhood Practice",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Care and Administrative Practice (Clinical Route)",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Social Services",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Financial Services",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Financial Services With Fintech",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Accounting",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Buying And Supply Chain Management",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Business With Enterprise",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Business With HR",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Business With Languages",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Administration and Information Technology with Digital Communication",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Social Sciences",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Fashion Make-up",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Hairdressing",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Coaching and Developing Sport",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Soft Tissue Therapy",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Patisserie",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Travel and Tourism (with option to study languages)",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Engineering: Mechanical",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Engineering: Electrical",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Industrial Automation Engineering with Robotics (Mechatronics)",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Computer Science",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Computing",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Computing: Software Development",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Creative Industries: Radio",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Creative Industries: Television",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Computing: Networking and Cyber Security",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Cyber Security",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Travel & Tourism (Skills For Work)",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Engineering: Mechanical (University of Strathclyde)",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Engineering: Mechanical (Glasgow University)",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Deck Cadet Programme",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Engine Cadet Programme",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Marketing Communications",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Practical Journalism (Without Shorthand) - January Start",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Accounting (Fast Track) - January Start",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Coaching and Developing Sport - January Start",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "Travel And Tourism - January Start",
+    "Level": "HNC",
+    "Skills": []
+  },
+  {
+    "Title": "ETO Cadet Programme",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Marine Electro-Technology",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Engine Cadet Programme",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Nautical Science/Chief Mate Full /Master",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Nautical Science (INDIA) (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Advanced Industrial Automation Engineering (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Furniture Craftmanship with Design (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Furniture Craftsmanship with Design",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Furniture Restoration",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Furniture Restoration (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "3D Design: Interior Design (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "3D Design: Model Making for the Creative Industries",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "3D Design: Model Making for the Creative Industries (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "3D Design: Product Design (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Acting and Performance (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Art and Design/Applied Arts (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Jewellery (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Jewellery Design",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Creative Printmaking (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Fine Art (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Photography",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Creative Printmaking",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Photography (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Creative Animation",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Digital Arts",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Graphic Design",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Graphic Design (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Illustration",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Illustration (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "3D Computer Animation",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "3D Computer Animation (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Computer Games Development (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Web Development",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Web Development (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Building Surveying",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Building Surveying (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Construction Management",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Construction Management (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Architectural Technology",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Architectural Technology (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Civil Engineering",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Computer Aided Architectrual Design & Technology (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Computer Aided Architectural Design & Technology",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Quantity Surveying",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Quantity Surveying (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Childhood Practice (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Financial Services",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Financial Services (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Accounting",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Accounting (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Retail Management",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Retail Management (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Supply Chain Management",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Business (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Business With Enterprise",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Business With HR",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Business With Languages",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Administration and Information Technology (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Legal Services",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Legal Services (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Social Sciences (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Beauty Therapy",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Beauty Therapy (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Complementary Therapies",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Complementary Therapies (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Make-up Artistry (Year 2 Direct Entrant)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Make-up Artistry TV, Film and Theatre",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Fitness, Health and Exercise",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Fitness, Health and Exercise (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Coaching and Developing Sport",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Coaching and Developing Sport (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Sports Therapy",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Sports Therapy (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Professional Cookery",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Professional Cookery (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Event Management (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Events Management",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Hospitality (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Hospitality Management",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Travel and Tourism (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Travel and Tourism (with option to study languages)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Mechanical Engineering",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Mechanical Engineering (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Engineering: Electrical",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Engineering: Electrical (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Computer Science",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Computer Science (Year 2 Direct Entrants)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Computing: Software Development",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Computing: Software Development (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Advertising and Public Relations",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Advertising and Public Relations (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Marketing (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Creative Industries: Radio (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Creative Industries: Television (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Computing: Networking and Cyber Security (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Cyber Security (Year 1)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Cyber Security (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Computing: Networking and Cyber Security",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Digital Journalism",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Practical Journalism (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "ETO Cadet Programme",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Digital Design: Graphics (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Digital Design: Graphics",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Engine Cadet Programme",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Creative Industries: Media and Communication (Year 2 Direct Entry)",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Marketing",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Early Education & Childcare - Higher ",
+    "Level": "NC",
+    "Skills": []
+  },
+  {
+    "Title": "Health and Social Care ",
+    "Level": "NC",
+    "Skills": []
+  },
+  {
+    "Title": "Administration ",
+    "Level": "NC",
+    "Skills": []
+  },
+  {
+    "Title": "Social Sciences ",
+    "Level": "NC",
+    "Skills": []
+  },
+  {
+    "Title": "Hairdressing ",
+    "Level": "NC",
+    "Skills": []
+  },
+  {
+    "Title": "International Travel (with option to study Languages) ",
+    "Level": "NC",
+    "Skills": []
+  },
+  {
+    "Title": "Mechanical Engineering ",
+    "Level": "NC",
+    "Skills": []
+  },
+  {
+    "Title": "Electrical Engineering ",
+    "Level": "NC",
+    "Skills": []
+  },
+  {
+    "Title": "Engineering Systems/Automated Engineering Systems ",
+    "Level": "NC",
+    "Skills": []
+  },
+  {
+    "Title": "Shipping and Maritime Operations (August Pre-Cadetship) ",
+    "Level": "NC",
+    "Skills": []
+  },
+  {
+    "Title": "Professional Cookery - January Start ",
+    "Level": "NC",
+    "Skills": []
+  },
+  {
+    "Title": "",
+    "Level": "NPA",
+    "Skills": []
+  },
+  {
+    "Title": "Painting and Decorating - August Start ",
+    "Level": "NPA",
+    "Skills": []
+  },
+  {
+    "Title": "Plastering - August Start ",
+    "Level": "NPA",
+    "Skills": []
+  },
+  {
+    "Title": "Wall and Floor Tiling - August Start ",
+    "Level": "NPA",
+    "Skills": []
+  },
+  {
+    "Title": "Bricklaying - August Start ",
+    "Level": "NPA",
+    "Skills": []
+  },
+  {
+    "Title": "Carpentry And Joinery - August Start ",
+    "Level": "NPA",
+    "Skills": []
+  },
+  {
+    "Title": "Building Services Engineering - January Start ",
+    "Level": "NPA",
+    "Skills": []
+  },
+  {
+    "Title": "Painting And Decorating - January Start ",
+    "Level": "NPA",
+    "Skills": []
+  },
+  {
+    "Title": "Plastering - January Start ",
+    "Level": "NPA",
+    "Skills": []
+  },
+  {
+    "Title": "Wall And Floor Tiling - January Start ",
+    "Level": "NPA",
+    "Skills": []
+  },
+  {
+    "Title": "Bricklaying - January Start ",
+    "Level": "NPA",
+    "Skills": []
+  },
+  {
+    "Title": "Carpentry and Joinery - January Start ",
+    "Level": "NPA",
+    "Skills": []
+  },
+  {
+    "Title": "Maritime and STEM (Jan) ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Events SCQF Level 6 ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Bakery ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Digital Art And Animation Portfolio ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Furniture ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Art and Design: Interior Design ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Art and Design: Product Design ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Modelmaking for TV and Film ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Art and Design: Applied Arts ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Jewellery Design ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Art and Design: Fine Art Portfolio ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Photography ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Art and Design: Creative Printmaking ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Art and Design/Graphic Arts Portfolio ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Computer Games And Animation ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Computer Modelling and Animation ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Computing: Games Development ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Computing ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Computing with Digital Media ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Media ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Built Environment ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Child, Health and Social Care ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "CityWorks ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Development Programmes ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Development Programmes ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Transitions Programme ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Transitions Programme ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Financial Services ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Accounts With Commerce ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Fashion and Retail ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Business Administration Award ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Beauty and Make-up ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Beauty and Make-up Artistry ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Beauty Therapy ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Wellness Therapies ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Hairdressing ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Make-up Artistry ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Barbering ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Health, Fitness and Sport Performance ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Sports Coaching ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Sports Therapy ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Catering and Hospitality - August Start ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Professional Cookery ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Professional Cookery ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Bakery ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Bakery ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Bakery Supported Learning ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Events ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Hospitality ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Travel and Tourism (with languages) ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Electrical Engineering with Electronics ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Computing: Software Development ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Television Production ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Carpentry and Joinery ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Construction Crafts ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Heritage Skills and Technology ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Business ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Cyber Security ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Introduction To Lifestyle Industries ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Fashion And Retail - January Start ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Hospitality ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Broadcasting: An Introduction To Radio And Television Production - January Start ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Marketing Communications - January Start ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Built Environment - January Start ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Introduction To Accounting - January Start ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "General Catering - January Start ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Bakery ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Events - January Start ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Hospitality ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Hospitality - January Start ",
+    "Level": "NQ",
+    "Skills": []
+  },
+  {
+    "Title": "Deck Cadet Programme ",
+    "Level": "Scottish Professional Diploma",
+    "Skills": []
+  },
+  {
+    "Title": "Engine Cadet Programme ",
+    "Level": "Scottish Professional Diploma",
+    "Skills": []
+  },
+  {
+    "Title": "EXPERIE",
+    "Level": "NC",
+    "Skills": []
+  },
+  {
+    "Title": "Progressing Courses from Kelvin and Clyde (SCQF level 6)",
+    "Level": "Other",
+    "Skills": []
+  },
+  {
+    "Title": "Chief Mate/Master Post",
+    "Level": "HND",
+    "Skills": []
+  },
+  {
+    "Title": "Project Search Employability Programme",
+    "Level": "Other",
+    "Skills": []
+  },
+  {
+    "Title": "Barbering SVQ (SCQF level 6)",
+    "Level": "Other",
+    "Skills": []
+  },
+  {
+    "Title": "Barbering - January Start SVQ (SCQF level 5)",
+    "Level": "Other",
+    "Skills": []
   }
 ]

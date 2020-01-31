@@ -53,9 +53,11 @@
             this.groupBox1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
             this.groupBox1.Controls.Add(this.listBoxCourses);
-            this.groupBox1.Location = new System.Drawing.Point(21, 63);
+            this.groupBox1.Location = new System.Drawing.Point(28, 78);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(301, 437);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox1.Size = new System.Drawing.Size(401, 538);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Courses";
@@ -66,18 +68,21 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.listBoxCourses.FormattingEnabled = true;
-            this.listBoxCourses.Location = new System.Drawing.Point(6, 19);
+            this.listBoxCourses.ItemHeight = 16;
+            this.listBoxCourses.Location = new System.Drawing.Point(8, 23);
+            this.listBoxCourses.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.listBoxCourses.Name = "listBoxCourses";
             this.listBoxCourses.ScrollAlwaysVisible = true;
-            this.listBoxCourses.Size = new System.Drawing.Size(289, 407);
+            this.listBoxCourses.Size = new System.Drawing.Size(384, 500);
             this.listBoxCourses.TabIndex = 0;
             this.listBoxCourses.SelectedIndexChanged += new System.EventHandler(this.listBoxCourses_SelectedIndexChanged);
             // 
             // btnDelete
             // 
-            this.btnDelete.Location = new System.Drawing.Point(580, 126);
+            this.btnDelete.Location = new System.Drawing.Point(773, 155);
+            this.btnDelete.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnDelete.Name = "btnDelete";
-            this.btnDelete.Size = new System.Drawing.Size(75, 23);
+            this.btnDelete.Size = new System.Drawing.Size(100, 28);
             this.btnDelete.TabIndex = 1;
             this.btnDelete.Text = "Delete";
             this.btnDelete.UseVisualStyleBackColor = true;
@@ -88,9 +93,11 @@
             this.groupBox2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
             this.groupBox2.Controls.Add(this.listBoxSkills);
-            this.groupBox2.Location = new System.Drawing.Point(328, 111);
+            this.groupBox2.Location = new System.Drawing.Point(437, 137);
+            this.groupBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(245, 389);
+            this.groupBox2.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox2.Size = new System.Drawing.Size(327, 479);
             this.groupBox2.TabIndex = 3;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Skills";
@@ -101,24 +108,28 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.listBoxSkills.FormattingEnabled = true;
-            this.listBoxSkills.Location = new System.Drawing.Point(3, 15);
+            this.listBoxSkills.ItemHeight = 16;
+            this.listBoxSkills.Location = new System.Drawing.Point(4, 18);
+            this.listBoxSkills.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.listBoxSkills.Name = "listBoxSkills";
-            this.listBoxSkills.Size = new System.Drawing.Size(232, 368);
+            this.listBoxSkills.Size = new System.Drawing.Size(308, 452);
             this.listBoxSkills.TabIndex = 0;
             // 
             // txtSkill
             // 
-            this.txtSkill.Location = new System.Drawing.Point(329, 48);
+            this.txtSkill.Location = new System.Drawing.Point(439, 59);
+            this.txtSkill.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtSkill.Name = "txtSkill";
             this.txtSkill.ScrollBars = System.Windows.Forms.ScrollBars.Horizontal;
-            this.txtSkill.Size = new System.Drawing.Size(295, 20);
+            this.txtSkill.Size = new System.Drawing.Size(392, 22);
             this.txtSkill.TabIndex = 4;
             // 
             // btnAdd
             // 
-            this.btnAdd.Location = new System.Drawing.Point(630, 46);
+            this.btnAdd.Location = new System.Drawing.Point(840, 57);
+            this.btnAdd.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnAdd.Name = "btnAdd";
-            this.btnAdd.Size = new System.Drawing.Size(75, 23);
+            this.btnAdd.Size = new System.Drawing.Size(100, 28);
             this.btnAdd.TabIndex = 5;
             this.btnAdd.Text = "Add";
             this.btnAdd.UseVisualStyleBackColor = true;
@@ -128,9 +139,10 @@
             // 
             this.btnCreate.BackColor = System.Drawing.Color.Red;
             this.btnCreate.ForeColor = System.Drawing.Color.White;
-            this.btnCreate.Location = new System.Drawing.Point(604, 465);
+            this.btnCreate.Location = new System.Drawing.Point(772, 578);
+            this.btnCreate.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnCreate.Name = "btnCreate";
-            this.btnCreate.Size = new System.Drawing.Size(122, 31);
+            this.btnCreate.Size = new System.Drawing.Size(163, 38);
             this.btnCreate.TabIndex = 6;
             this.btnCreate.Text = "Generate JSON";
             this.btnCreate.UseVisualStyleBackColor = false;
@@ -139,34 +151,38 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(330, 29);
+            this.label1.Location = new System.Drawing.Point(440, 36);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(78, 13);
+            this.label1.Size = new System.Drawing.Size(104, 17);
             this.label1.TabIndex = 7;
             this.label1.Text = "Enter Skill here";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(329, 82);
+            this.label3.Location = new System.Drawing.Point(439, 101);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(91, 13);
+            this.label3.Size = new System.Drawing.Size(120, 17);
             this.label3.TabIndex = 9;
             this.label3.Text = "Selected Course: ";
             // 
             // lblSelectedCourse
             // 
             this.lblSelectedCourse.AutoSize = true;
-            this.lblSelectedCourse.Location = new System.Drawing.Point(417, 82);
+            this.lblSelectedCourse.Location = new System.Drawing.Point(556, 101);
+            this.lblSelectedCourse.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblSelectedCourse.Name = "lblSelectedCourse";
-            this.lblSelectedCourse.Size = new System.Drawing.Size(0, 13);
+            this.lblSelectedCourse.Size = new System.Drawing.Size(0, 17);
             this.lblSelectedCourse.TabIndex = 10;
             // 
             // btnBrowse
             // 
-            this.btnBrowse.Location = new System.Drawing.Point(27, 24);
+            this.btnBrowse.Location = new System.Drawing.Point(36, 30);
+            this.btnBrowse.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnBrowse.Name = "btnBrowse";
-            this.btnBrowse.Size = new System.Drawing.Size(75, 23);
+            this.btnBrowse.Size = new System.Drawing.Size(100, 28);
             this.btnBrowse.TabIndex = 12;
             this.btnBrowse.Text = "Browse Files";
             this.btnBrowse.UseVisualStyleBackColor = true;
@@ -179,25 +195,27 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(330, 95);
+            this.label2.Location = new System.Drawing.Point(440, 117);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(36, 13);
+            this.label2.Size = new System.Drawing.Size(46, 17);
             this.label2.TabIndex = 13;
             this.label2.Text = "Level:";
             // 
             // lblCourseLevel
             // 
             this.lblCourseLevel.AutoSize = true;
-            this.lblCourseLevel.Location = new System.Drawing.Point(372, 95);
+            this.lblCourseLevel.Location = new System.Drawing.Point(496, 117);
+            this.lblCourseLevel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblCourseLevel.Name = "lblCourseLevel";
-            this.lblCourseLevel.Size = new System.Drawing.Size(0, 13);
+            this.lblCourseLevel.Size = new System.Drawing.Size(0, 17);
             this.lblCourseLevel.TabIndex = 14;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(802, 517);
+            this.ClientSize = new System.Drawing.Size(1069, 636);
             this.Controls.Add(this.lblCourseLevel);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.btnBrowse);
@@ -211,6 +229,7 @@
             this.Controls.Add(this.btnDelete);
             this.Controls.Add(this.groupBox1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Add Skillks";

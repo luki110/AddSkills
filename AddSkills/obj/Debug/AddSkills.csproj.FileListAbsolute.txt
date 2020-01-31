@@ -10,3 +10,15 @@ C:\Users\lukas\source\repos\AddSkills\AddSkills\obj\Debug\AddSkills.csproj.Gener
 C:\Users\lukas\source\repos\AddSkills\AddSkills\obj\Debug\AddSkills.csproj.CopyComplete
 C:\Users\lukas\source\repos\AddSkills\AddSkills\obj\Debug\AddSkills.exe
 C:\Users\lukas\source\repos\AddSkills\AddSkills\obj\Debug\AddSkills.pdb
+C:\Users\Lenovo\addSkills\AddSkills\AddSkills\bin\Debug\AddSkills.exe.config
+C:\Users\Lenovo\addSkills\AddSkills\AddSkills\bin\Debug\AddSkills.exe
+C:\Users\Lenovo\addSkills\AddSkills\AddSkills\bin\Debug\AddSkills.pdb
+C:\Users\Lenovo\addSkills\AddSkills\AddSkills\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\addSkills\AddSkills\AddSkills\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\addSkills\AddSkills\AddSkills\obj\Debug\AddSkills.csprojAssemblyReference.cache
+C:\Users\Lenovo\addSkills\AddSkills\AddSkills\obj\Debug\AddSkills.Form1.resources
+C:\Users\Lenovo\addSkills\AddSkills\AddSkills\obj\Debug\AddSkills.Properties.Resources.resources
+C:\Users\Lenovo\addSkills\AddSkills\AddSkills\obj\Debug\AddSkills.csproj.GenerateResource.cache
+C:\Users\Lenovo\addSkills\AddSkills\AddSkills\obj\Debug\AddSkills.csproj.CopyComplete
+C:\Users\Lenovo\addSkills\AddSkills\AddSkills\obj\Debug\AddSkills.exe
+C:\Users\Lenovo\addSkills\AddSkills\AddSkills\obj\Debug\AddSkills.pdb

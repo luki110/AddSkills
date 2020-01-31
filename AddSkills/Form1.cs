@@ -174,14 +174,22 @@ namespace AddSkills
                 }
                 else
                 {
+                    HashSet<string> uniqueSkills = new HashSet<string>();
                     List<Course> lstcourses = new List<Course>();
                     foreach (Course c in listBoxCourses.Items)
                     {
 
                         lstcourses.Add(c);
+                        foreach(string s in c.Skills)
+                        {
+                            uniqueSkills.Add(s);
+                        }
                     }
 
+                   
                     string jCourses = JsonConvert.SerializeObject(lstcourses, Formatting.Indented);
+
+                    string jSkills = JsonConvert.SerializeObject(uniqueSkills, Formatting.Indented);
                     //
                     //This part was selecting file save destination but for some reason it still saves it in: AddSkills\AddSkills\bin\Debug\
                     //
@@ -206,7 +214,8 @@ namespace AddSkills
                     //}
 
                     System.IO.File.WriteAllText("CoursesWithSkills.json", jCourses);
-                    MessageBox.Show("JSON file has been successfuly created");
+                    System.IO.File.WriteAllText("UniqueSkills.json", jSkills);
+                    MessageBox.Show("JSON files has been successfuly created");
                     //        myStream.Close();
                     //    }
                     //}
